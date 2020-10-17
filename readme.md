@@ -11,6 +11,7 @@
     *Remover cliente -> DELETE /customers/delete/id<br>
     *Alterar o nome do cliente -> PUT /customers/edit/id<br>
 
+A API está configurada para ouvir a porta :3333<br>
 
 Utilizei o Knex para facilitar a montagem das Queries, o Express para as rotas e o CORS para controle de acesso. O banco de dados utilizado foi o SQLite.<br>
 <br>
